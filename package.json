@@ -4,7 +4,9 @@
   "description": "THIS IS A README, STICK EM UP",
   "main": "mybot.js",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.3.2",
+    "winston": "^2.4.1"
   },
   "devDependencies": {},
   "scripts": {

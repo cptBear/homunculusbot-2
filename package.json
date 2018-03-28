@@ -1,6 +1,7 @@
 {
   "name": "homunculusbot-2",
   "version": "1.0.0",
+  "description": "THIS IS A README, STICK EM UP",
   "main": "mybot.js",
   "dependencies": {
     "discord.js": "^11.3.2"
@@ -9,8 +10,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cptBear/homunculusbot-2.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/cptBear/homunculusbot-2/issues"
+  },
+  "homepage": "https://github.com/cptBear/homunculusbot-2#readme"
 }
